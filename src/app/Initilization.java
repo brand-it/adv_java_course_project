@@ -9,7 +9,9 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-import app.panels.*;
+import panels.*;
+
+
 
 public class Initilization extends JFrame implements ActionListener {
   

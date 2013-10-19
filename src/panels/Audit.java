@@ -3,7 +3,7 @@ Program Name: Audit.java
 Programmer's Name: Brandt Lareau
 Program Description: Audit History
 ***********************************************************************/
-package app.panels;
+package panels;
 
 import javax.swing.*;
 import java.awt.event.*;

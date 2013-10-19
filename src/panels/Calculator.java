@@ -3,7 +3,7 @@ Program Name: PanelOne.java
 Programmer's Name: Brandt Lareau
 Program Description: Calculator for the pool
 ***********************************************************************/
-package app.panels;
+package panels;
 
 import javax.swing.*;
 import java.awt.*;
